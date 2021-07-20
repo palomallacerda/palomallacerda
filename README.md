@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently a Computer Scientist student at the Federal University of Alagoas
 - 🌱 I’m currently learning fundamentals of Cyber Security.
-- :earth_americas: Member of a extenssion project Katie, fighting for more women in STEM!   
+- :earth_americas: Member of an extenssion project Katie, fighting for more women in STEM!   
 - 💬 Let's talk about any new technologies, I'm always looking to new things to learn! 
 - <h3> 📫 How to reach me:<h3/> 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/paloma-lacerda-96056a1a8) 
