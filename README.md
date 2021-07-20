@@ -4,4 +4,4 @@
 -- 🌱 I’m currently learning fundamentals of cyber security  
 - 💬 Let's talk about any new technologies, I'm always looking to new things to learn! 
 - 📫 How to reach me: https://www.linkedin.com/in/paloma-lacerda-96056a1a8/ 
-- ⚡ Fun fact: I'm currently learning german !
+- ⚡ Fun fact: I like to study german at my free time!!
