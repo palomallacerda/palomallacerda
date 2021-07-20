@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently a Computer Scientist student at the Federal University of Alagoas
-- 🌱 I’m currently learning fundamentals of Cyber Security.
+- 🌱 At the moment I'm learning fundamentals of Cyber Security.
 - :earth_americas: Member of an extenssion project Katie, fighting for more women in STEM!   
 - 💬 Let's talk about any new technologies, I'm always looking to new things to learn! 
 -<h2> 📫 How to reach me:<h2/><br>
