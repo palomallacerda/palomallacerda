@@ -1,15 +1,39 @@
-### Hi there 👋
+### Hi there I'm Paloma Lacerda👋
 
 - 🔭 I’m currently a Computer Scientist student at the Federal University of Alagoas
 - 🌱 At the moment I'm learning fundamentals of Cyber Security.
 - :earth_americas: Member of an Extension Project called Katie, fighting for more women in STEM!   
 - 💬 Let's talk about any new technologies, I'm always looking to new things to learn! 
--<h2> 📫 How to reach me:<h2/><br>
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/paloma-lacerda-96056a1a8) 
+- ⚡ Fun fact: I like to study german! :four_leaf_clover:
+<h4>Technologies that I have experience with:</h4> <div style="display:inline_block"><br>
+  <img align="Center" alt="paloma01" heigth="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">
+  <img align="Center" alt="paloma-02" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
+  <img align="Center" alt="paloma-03" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg">
+  <img align="Center" alt="paloma-04" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg">
+</div>
 
-- ⚡ Fun fact: I like to study german at my free time!! :four_leaf_clover:
+##
+<h4>📖 I'm Learning with:</h4> <div style="display:inline_block"><br>
+  <img align="Center" alt="paloma-html" heigth="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+  <img align="Center" alt="paloma-CSS" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+  <img align="Center" alt="paloma-JS" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
+  <img align="Center" alt="paloma-04" heigth="30" width="40" src="https://image.flaticon.com/icons/png/512/2092/2092663.png">
+</div>
 
+##
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=palomallacerda)
+<h4>📫 How to reach me:</h4>  
+<div>
+  <a href="https://www.linkedin.com/in/paloma-lacerda-96056a1a8">
+  <img heigth="80em" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</div>
+
+##
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=palomallacerda&layout=compact)](https://github.com/palomallacerda/github-readme-stats)
+<div>
+    <a href="github.com/palomallacerda">
+    <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=palomallacerda&show_icons=True&theme=midnight-purple"/>  
+    <img heigth ="180en" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomallacerda&layout=compact&show_icons=True&theme=midnight-purple"/>
+</div>
+  
+  
