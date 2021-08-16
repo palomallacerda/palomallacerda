@@ -15,7 +15,7 @@
 </div>
 
 ##
-<h4>📖 I'm Learning with:</h4> <div style="display:inline_block"><br>
+<h4>📖 I'm Learning:</h4> <div style="display:inline_block"><br>
   <img align="Center" alt="paloma-html" heigth="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img align="Center" alt="paloma-CSS" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img align="Center" alt="paloma-JS" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
