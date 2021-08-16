@@ -1,6 +1,7 @@
 ### Hi there I'm Paloma Lacerda👋
 
 - 🔭 I’m currently a Computer Scientist student at the Federal University of Alagoas
+- 🖥 Computer networking Lover ❤
 - 🌱 At the moment I'm learning fundamentals of Cyber Security.
 - :earth_americas: Member of an Extension Project called Katie, fighting for more women in STEM!   
 - 💬 Let's talk about any new technologies, I'm always looking to new things to learn! 
@@ -9,6 +10,7 @@
   <img align="Center" alt="paloma01" heigth="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">
   <img align="Center" alt="paloma-02" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
   <img align="Center" alt="paloma-03" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg">
+  <img align="Center" alt="paloma-canva" heigth="30" width="40" src="https://img.icons8.com/cute-clipart/452/canva-app.png">
   <img align="Center" alt="paloma-04" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg">
 </div>
 
