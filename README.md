@@ -16,10 +16,12 @@
 
 ##
 <h4>📖 I'm Learning:</h4> <div style="display:inline_block"><br>
+  <img align="Center" alt="paloma-04" heigth="40" width="50" src="https://image.flaticon.com/icons/png/512/2092/2092663.png">
+  <img align="Center" alt="paloma-04" heigth="40" width="50" src="https://www.clipartmax.com/png/small/226-2267460_07-dec-cyber-security-icon-home-cyber-security-security-icon.png">
   <img align="Center" alt="paloma-html" heigth="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img align="Center" alt="paloma-CSS" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img align="Center" alt="paloma-JS" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
-  <img align="Center" alt="paloma-04" heigth="30" width="40" src="https://image.flaticon.com/icons/png/512/2092/2092663.png">
+  
 </div>
 
 ##
