@@ -40,4 +40,7 @@
     <img heigth ="180en" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomallacerda&layout=compact&show_icons=True&theme=midnight-purple"/>
 </div>
   
+<h1>My Visits!</h1>
+![Visitor Count](https://profile-counter.glitch.me/palomallacerda/count.svg)
+ 
   
