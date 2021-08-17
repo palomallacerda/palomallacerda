@@ -39,8 +39,6 @@
     <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=palomallacerda&show_icons=True&theme=midnight-purple"/>  
     <img heigth ="180en" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomallacerda&layout=compact&show_icons=True&theme=midnight-purple"/>
 </div>
-  
-<h1>My Visits!</h1>
-![Visitor Count](https://profile-counter.glitch.me/palomallacerda/count.svg)
+
  
   
