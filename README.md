@@ -1,5 +1,8 @@
 ### Hi there I'm Paloma Lacerda👋
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=palomallacerda&label=Profile%20views&color=0e75b6&style=flat" alt="palomallacerda" /> </p>
+
 - 🔭 I’m currently a Computer Scientist student at the Federal University of Alagoas
 - 🖥 Computer networking Lover ❤
 - 🌱 At the moment I'm learning fundamentals of Cyber Security.
@@ -32,7 +35,7 @@
   <a href="https://www.linkedin.com/in/paloma-lacerda-96056a1a8">
   <img heigth="80em" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </div>
-
+  
 ##
   
 <div>
