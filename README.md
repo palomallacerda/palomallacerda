@@ -6,8 +6,8 @@
 
 - 🔭 I’m currently a Computer Scientist student at the Federal University of Alagoas
 - 🖥 Computer networking Lover ❤
-- 🌱 At the moment I'm learning fundamentals of Cyber Security.
-- :earth_americas: Member of an Extension Project called Katie, fighting for more women in STEM!   
+- 🌱 Security Analist at Tempest Security
+- :earth_americas: Member of an Extension Project called AcHa!   
 - 💬 Let's talk about any new technologies, I'm always looking to new things to learn! 
 - ⚡ Fun fact: I like to study german! :four_leaf_clover:
 <h4>Technologies that I have experience with:</h4> <div style="display:inline_block"><br>
