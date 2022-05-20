@@ -15,7 +15,6 @@
   <img align="Center" alt="paloma-02" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
   <img align="Center" alt="paloma-03" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg">
   <img align="Center" alt="paloma-canva" heigth="30" width="40" src="https://img.icons8.com/cute-clipart/452/canva-app.png">
-  <img align="Center" alt="paloma-04" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg">
 </div>
 
 ##
