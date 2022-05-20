@@ -10,12 +10,6 @@
 - :earth_americas: Member of an Extension Project called AcHa!   
 - 💬 Let's talk about any new technologies, I'm always looking to new things to learn! 
 - ⚡ Fun fact: I like to study german! :four_leaf_clover:
-<h4>Technologies that I have experience with:</h4> <div style="display:inline_block"><br>
-  <img align="Center" alt="paloma01" heigth="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">
-  <img align="Center" alt="paloma-02" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
-  <img align="Center" alt="paloma-03" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg">
-  <img align="Center" alt="paloma-canva" heigth="30" width="40" src="https://img.icons8.com/cute-clipart/452/canva-app.png">
-</div>
 
 ##
 <h4>📖 I'm Learning:</h4> <div style="display:inline_block"><br>
