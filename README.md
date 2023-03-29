@@ -5,9 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palomallacerda&label=Profile%20views&color=0e75b6&style=flat" alt="palomallacerda" /> </p>
 
 - 🔭 I’m currently a Computer Scientist student at the Federal University of Alagoas
-- 🖥 Computer networking Lover ❤
-- 🌱 Security Analist at Tempest Security
-- :earth_americas: Member of an Extension Project called AcHa!   
+- 🖥 Computer networking/Security Lover ❤
+- 🌱 Security Analist at Tempest Security  
 - 💬 Let's talk about any new technologies, I'm always looking to new things to learn! 
 - ⚡ Fun fact: I like to study german! :four_leaf_clover:
 
