@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently a Computer Scientist student at the Federal University of Alagoas
 - 🖥 Computer networking/Security Lover ❤
-- 🌱 Security Analist at Tempest Security  
+- 🌱 Security Analyst at Tempest Security  
 - 💬 Let's talk about any new technologies, I'm always looking to new things to learn! 
 - ⚡ Fun fact: I like to study german! :four_leaf_clover:
 
